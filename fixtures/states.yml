@@ -1,0 +1,9 @@
+entity: State
+items:
+  state-al:
+    id: 1
+    name: 'Alabama'
+  state-ak:
+    id: 2
+    name: 'Alaska'
+

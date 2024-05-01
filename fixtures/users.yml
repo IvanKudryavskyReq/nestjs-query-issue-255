@@ -1,0 +1,14 @@
+entity: User
+items:
+  user-1:
+    id: 1
+    name: 'John Smith'
+    address:
+      state: '@state-al'
+      zip: '00000'
+  user-2:
+    id: 2
+    name: 'Puss in Boots'
+    address:
+      state: '@state-ak'
+      zip: '007'
